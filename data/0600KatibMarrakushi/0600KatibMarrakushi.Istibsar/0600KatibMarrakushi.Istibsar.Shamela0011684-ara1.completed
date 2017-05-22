@@ -1,43 +1,42 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: Shamela_0011684
-#NewRec# 000.BookURI	:: #0600.KatibMarrakushi.Istibsar
-#NewRec# 010.AuthorAKA	:: NODATA
-#NewRec# 010.AuthorNAME	:: كاتب مراكشي (توفي: ق 6هـ)
-#NewRec# 011.AuthorBORN	:: NOTGIVEN
-#NewRec# 011.AuthorDIED	:: NOTGIVEN
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: الاستبصار في عجائب الأمصار
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: البلدان والجغرافيا والرحلات
-#NewRec# 022.BookVOLS	:: 1
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: NODATA
-#NewRec# 030.LibURI	:: Shamela_0011684
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: http://shamela.ws/browse.php/book-11684
-#NewRec# 031.LibURL	:: http://shamela.ws/index.php/book/11684
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: NODATA
-#NewRec# 041.EdNUMBER	:: NODATA
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: دار الشؤون الثقافية، بغداد
-#NewRec# 044.EdPLACE	:: NODATA
-#NewRec# 045.EdYEAR	:: 1986 م
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: pdf is exact match | Structure ist now very close to the table of contents, sometimes additional tags were made to distinguish between more than one city in a single headline. |Jonas | book contains descriptions of (holy)places and cities ,mostly descriptions start with a new paragaph but also sometimes in the middle of the text
+#META# 000.SortField	:: Shamela_0011684
+#META# 000.BookURI	:: #0600.KatibMarrakushi.Istibsar
+#META# 010.AuthorAKA	:: NODATA
+#META# 010.AuthorNAME	:: كاتب مراكشي (توفي: ق 6هـ)
+#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorDIED	:: NOTGIVEN
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: الاستبصار في عجائب الأمصار
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: البلدان والجغرافيا والرحلات
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: NODATA
+#META# 030.LibURI	:: Shamela_0011684
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: http://shamela.ws/browse.php/book-11684
+#META# 031.LibURL	:: http://shamela.ws/index.php/book/11684
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: NODATA
+#META# 041.EdNUMBER	:: NODATA
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: دار الشؤون الثقافية، بغداد
+#META# 044.EdPLACE	:: NODATA
+#META# 045.EdYEAR	:: 1986 م
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: pdf is exact match | Structure ist now very close to the table of contents, sometimes additional tags were made to distinguish between more than one city in a single headline. |Jonas | book contains descriptions of (holy)places and cities ,mostly descriptions start with a new paragaph but also sometimes in the middle of the text
 
 
 
-#####ARABICA#SUBJECT#XXX#
+#META#Header#End#
 # PageV00P000
 ### | [مقدمة]
 # مما يدعو إلى الأسف أننا نجهل مؤلف كتاب الاستبصار.
