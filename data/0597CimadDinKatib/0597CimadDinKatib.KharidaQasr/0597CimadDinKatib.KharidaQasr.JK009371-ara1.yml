@@ -1,13 +1,14 @@
 00#VERS#LENGTH###: 20155
 00#VERS#URI######: 0597CimadDinKatib.KharidaQasr.JK009371-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/16662394
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/16662394
+80#VERS#LINKS####: https://archive.org/details/Kharidatqasr
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: In digital text this is marked as volume 7, but in pdf found online it is volume 10, 
+ although the edition itself does not bear a number at all. From line 791 onwards and again from line 2174 onwards
+ the three-pipe sections are in fact subdivisions of the particular poet's biography (poetry ordered alphabetically
+ according to the rhyming consonant in the first case, a selection of prose writings in the second case).
+ As there is no tag for subdividing a biography I've used the general markers for subdivision. Text seems to be of good quality though includes a lot of 
+ punctuation.
+90#VERS#DATE#####: 2019-11-06
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
