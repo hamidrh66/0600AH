@@ -4,6 +4,7 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
 90#VERS#ANNOTATOR: LeipzigTeam
-90#VERS#COMMENT##: The text has been tagged according to the old workflow; it needs to be vetted and missing information supplied.
+90#VERS#COMMENT##: The text has been tagged according to the old
+    workflow; it needs to be vetted and missing information supplied.
 90#VERS#DATE#####: 2019-09-30
 90#VERS#ISSUES###: formalized issues, separated with commas
