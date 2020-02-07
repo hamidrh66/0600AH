@@ -4,11 +4,13 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/16662394
 80#VERS#LINKS####: https://archive.org/details/Kharidatqasr
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
-90#VERS#COMMENT##: This is only vols. 5-6 (the vols dealing with Iraq) of the entire 20-volume work.
- Text had no pre-tagging and was rather messy with pipes and % symbols, most of which I cleaned up 
- with regex. There is however still a lot of punctuation in the text. 
- I have marked the poetry by using regex. All entries on individual poets have been marked as 
- biographies. At the beginning of volume 5 a title is missing (would be page 3, but digital text only starts
- at page 5). Apart from that text quality seems to be ok. 
+90#VERS#COMMENT##: This is only vols. 5-6 (the vols dealing with Iraq)
+    of the entire 20-volume work. Text had no pre-tagging and was rather
+    messy with pipes and % symbols, most of which I cleaned up  with regex.
+    There is however still a lot of punctuation in the text.  I have marked
+    the poetry by using regex. All entries on individual poets have been
+    marked as  biographies. At the beginning of volume 5 a title is missing
+    (would be page 3, but digital text only starts at page 5). Apart from
+    that text quality seems to be ok.
 90#VERS#DATE#####: 2019-11-05
 90#VERS#ISSUES###: formalized issues, separated with commas

@@ -4,15 +4,22 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/16662394
 80#VERS#LINKS####: https://archive.org/details/Kharidatqasr
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
-90#VERS#COMMENT##: See merger-issue for general KharidaQasr. This is volume 11-13 in archive pdf 
- while digital text says volume 8-10. Edition itself does not bear either numbering, as the voumes of 
- separate qisms (devoted to regions) are numbered separately. I have continued the structural logic of 
- the previous part. There are several blank pages in the pdf, digital text follows this identically 
- (lines 2315-2318) and on line 2303 the typist has left a message to notify of this. Also similar to last
- volume, there are subdivisions in biography for which I previously fixed by using 3 pipes. However, in this volume, this 
- creates some problems because there are more subdivisions which clash with this system, so I decided instead to 
- detag all these subdivisions. This results in a number of long biographies but is more clear. In the 
- last volume, the editor has regularly inserted pages of historical info in the body text. This info is not based on any manuscript so I have marked this with the editor-tag. 
- Text seems to be of good quality. I noticed one mistake (wasn't looking for any): name om line 14184 reads أمين الدولة but should أمين الدين
+90#VERS#COMMENT##: See merger-issue for general KharidaQasr. This is
+    volume 11-13 in archive pdf  while digital text says volume 8-10.
+    Edition itself does not bear either numbering, as the voumes of
+    separate qisms (devoted to regions) are numbered separately. I have
+    continued the structural logic of  the previous part. There are several
+    blank pages in the pdf, digital text follows this identically  (lines
+    2315-2318) and on line 2303 the typist has left a message to notify of
+    this. Also similar to last volume, there are subdivisions in biography
+    for which I previously fixed by using 3 pipes. However, in this volume,
+    this  creates some problems because there are more subdivisions which
+    clash with this system, so I decided instead to  detag all these
+    subdivisions. This results in a number of long biographies but is more
+    clear. In the  last volume, the editor has regularly inserted pages of
+    historical info in the body text. This info is not based on any
+    manuscript so I have marked this with the editor-tag.  Text seems to be
+    of good quality. I noticed one mistake (wasn't looking for any): name om
+    line 14184 reads أمين الدولة but should أمين الدين
 90#VERS#DATE#####: 2019-11-06
 90#VERS#ISSUES###: EDITORIAL_SECTIONS
