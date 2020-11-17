@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0595IbnRushdHafid.TalkhisShicrLiAristutalis
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-shiʿr
-10#BOOK#TITLEB#AR: Talkhīṣ mā fī Kitāb Arisṭūṭālīs fī al-shiʿr
+10#BOOK#TITLEA#AR: Kitāb al-šiʿr
+10#BOOK#TITLEB#AR: Talḫīṣ mā fī Kitāb Arisṭūṭālīs fī al-šiʿr
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
